@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PROJ-20] Просмотр списка товаров и деталей продукта: Не отображается фото карточки товара &quot;Apple Gaming 15&quot; на странице &quot;Каталог&quot;</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://amelchenko4101994.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PROJ-20]&nbsp;<a href="https://amelchenko4101994.atlassian.net/browse/PROJ-20">Просмотр списка товаров и деталей продукта: Не отображается фото карточки товара &quot;Apple Gaming 15&quot; на странице &quot;Каталог&quot;</a>
+            <span class="subText">
+               Создано: 26/мар/26                   &nbsp;Обновлено: 26/мар/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://amelchenko4101994.atlassian.net/secure/BrowseProject.jspa?id=10000">Test</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:7004d59c-bfe1-4925-ba52-92dd4d0d904c"
+                id="word_reporter_712020:7004d59c-bfe1-4925-ba52-92dd4d0d904c"
+                href="https://amelchenko4101994.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A7004d59c-bfe1-4925-ba52-92dd4d0d904c">
+                    World One
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10051-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://amelchenko4101994.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG файл">
+                    Отсутствие фото товара.jpg &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10051-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001z:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10051-value" class="value" bgcolor="#ffffff" width="80%">PROJ Спринт 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Preconditions:</b> Пользователь должен быть авторизован, находится на странице “Каталог”  </p>
+
+<p><b>STR:</b></p>
+
+<p>1 Перейти на страницу “2” на странице “Каталог” при помощи пагинации</p>
+
+<p>2 Найти карточку товара “Apple Gaming 15”</p>
+
+<p><b>Actual result (ACT):</b></p>
+
+<p>При переходе на страницу “2” при помощи пагинации, фото карточки товара “Apple Gaming 15” отсутствует.</p>
+
+<p><b>Expected result (EXP):</b></p>
+
+<p>При переходе на страницу “2” при помощи пагинации, фото карточки товара “Apple Gaming 15” отображается.</p>
+
+<p><b>Attachments:</b> </p>
+
+<p><span class="image-wrap" style=""><img src="https://amelchenko4101994.atlassian.net/rest/api/3/attachment/content/10034" alt="Отсутствие фото товара.jpg" width="671" style="border: 0px solid black" /></span></p>
+
+<p><b>Environment:</b> Windows 10 Pro, Google Chrome Версия: 145.0.7632.160 (официальная сборка) (64 бит</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Полученный Thu Mar 26 22:55:23 UTC 2026 World One используя JIRA 1001.0.0-SNAPSHOT#100291-rev:aa788f054b3aa9723d0aca58424dc5943bb8a5fd.
+
+</body>
+</html>
