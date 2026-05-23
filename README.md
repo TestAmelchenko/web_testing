@@ -1,5 +1,7 @@
 # web_testing
 Тестирование Веб-приложения (Интернет-магазин) https://intern.demoshopping.ru/
+###
+---
 ✏️ В рамках выполнения домашнего задания мною были подготовлены:
 
 <ul>
@@ -8,3 +10,5 @@
   <li><a href="https://github.com/TestAmelchenko/web_testing/tree/main/%D0%91%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B">Баг репорты</a> </li>
 </ul>
 
+###
+---
